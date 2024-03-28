@@ -5,6 +5,8 @@
 
 ![openJDK] ![license] ![spring.model]
 
+
+
 <br />
 
 # Introdução
@@ -12,11 +14,24 @@ Grafos são objetos matemáticos que consistem de um conjunto finito de vértice
 O Spring Model foi o algoritmo eleito e implementado na sua biblioteca de classes como recurso para modelar um diagrama automaticamente.
 
 
+
+<br />
+
+# Exemplo de Captura da tela
+O figura abaixo mostra a captura da tela após executar a classe Layout02.java da pasta exemplos.
+
+<div align="center">
+  <img src="https://github.com/lhcastilho-projects/gede/blob/main/img/screenshot.png"/>
+</div>
+
+
+
 <br />
 
 # Instalação
 A biblioteca foi desenvolvido utilizado a IDE Eclipse e não possui um processo de instalação. Todo o código fonte está disponível para download e não há dependências externas de outros bibliotecas. Veja as próximas seções para mais detalhes de como utilizá=lo. <br /> <br />
 ![eclipse]
+
 
 
 <br />
