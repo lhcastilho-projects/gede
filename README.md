@@ -1,7 +1,9 @@
 <div align="center">
   <h1>GeDE</h1>
-  <h2>Generic Diagram Editor</h2>
+ Generic Diagram Editor
 </div>
+
+<br />
 
 ![openJDK] ![license] ![spring.model]
 
