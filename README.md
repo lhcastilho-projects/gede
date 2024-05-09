@@ -31,7 +31,7 @@ O figura abaixo mostra a captura da tela após executar a classe Layout02.java d
 <br />
 
 # Instalação
-A biblioteca foi desenvolvido utilizado a IDE Eclipse e não possui um processo de instalação. Todo o código fonte está disponível para download e não há dependências externas de outros bibliotecas. Veja as próximas seções para mais detalhes de como utilizá=lo. <br /> <br />
+A biblioteca foi desenvolvido utilizado a IDE Eclipse e não possui um processo de instalação. Todo o código fonte está disponível para download e não há dependências externas de outras bibliotecas. Veja as próximas seções para mais detalhes de como utilizá-lo. <br /> <br />
 ![eclipse]
 
 
